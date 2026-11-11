@@ -1,0 +1,11 @@
+# Local build outputs and editor files
+*.exe
+*.o
+*.obj
+*.out
+*.ilk
+*.pdb
+a.out
+.vscode/
+.idea/
+build/

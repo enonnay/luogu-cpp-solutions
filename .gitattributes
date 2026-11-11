@@ -1,0 +1,5 @@
+solutions/*.cpp -text
+*.md text eol=lf
+*.json text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
